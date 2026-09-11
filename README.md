@@ -9,7 +9,7 @@ The dashboard provides an interactive view of sales performance using charts, KP
 
 ## Dashboard Preview
 
-![Customer Sales Dashboard](customer_sales_dashoard.png)
+![Customer Sales Dashboard](customer_sales_dashboard.png)
 
 ## Tools Used
 
