@@ -40,3 +40,11 @@ The dashboard provides an interactive view of sales performance using charts, KP
 ## Project Goal
 
 The goal of this project was to practice using Excel to analyze customer sales data and present the results through an interactive and easy-to-understand dashboard.
+
+
+## Key Insights
+
+- Total revenue generated was approximately **2.33B**.
+- Cost of goods sold (COGS) was approximately **1.86B**.
+- The dashboard reported a total profit of approximately **4.66M**.
+- The dashboard provides an interactive way to explore sales performance across different customer, product, and business dimensions.
