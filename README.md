@@ -6,6 +6,11 @@ This project is an Excel-based customer sales analysis dashboard created to tran
 
 The dashboard provides an interactive view of sales performance using charts, KPIs, and slicers.
 
+
+## Dashboard Preview
+
+![Customer Sales Dashboard](customer_sales_dashoard.png)
+
 ## Tools Used
 
 - Microsoft Excel
